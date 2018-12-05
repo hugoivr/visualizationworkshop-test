@@ -12,7 +12,7 @@ One of the diagrams we learnt about is the BoxWhiskerChart.
 
 Here's an example:
 
-<br><img src="/media/boxWhisker.jpg" width="100%">
+<br><img src="./media/boxWhisker.jpg" width="100%">
 
 Amazing, isn't it?
 
