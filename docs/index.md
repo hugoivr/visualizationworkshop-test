@@ -53,3 +53,8 @@ p = ggplot(diamonds, aes(carat, price)) + scale_fill_brewer(palette="Pastel1") +
 p
 
 ```
+
+
+Other example of the things we learnt is:
+
+<iframe width="100%" height="500" src="./media/globeMeteors.html"></iframe>
